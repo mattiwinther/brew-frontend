@@ -66,7 +66,7 @@ $.widget("wde.pid_control", {
 		});			
 		
 		$('#pid-widget_'+ _id +'_showstats').on('click', function() {
-			$('#pid-widget_'+ _id +'_stats').toggle(400);
+			$('#pid-widget_'+ _id +'_stats').toggle(399);
 		});
 		
 		socket.on('serialEvent', function (data) {
