@@ -1,0 +1,1862 @@
+info: socket.io started
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized dnm1aBQMf7RsLmjBFajE
+debug: setting request GET /socket.io/1/websocket/dnm1aBQMf7RsLmjBFajE
+debug: set heartbeat interval for client dnm1aBQMf7RsLmjBFajE
+debug: client authorized for 
+debug: websocket writing 1::
+info: transport end (socket end)
+debug: set close timeout for client dnm1aBQMf7RsLmjBFajE
+debug: cleared close timeout for client dnm1aBQMf7RsLmjBFajE
+debug: cleared heartbeat interval for client dnm1aBQMf7RsLmjBFajE
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized ugkCr8vTwWfAWilGFajF
+debug: setting request GET /socket.io/1/websocket/ugkCr8vTwWfAWilGFajF
+debug: set heartbeat interval for client ugkCr8vTwWfAWilGFajF
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: emitting heartbeat for client ugkCr8vTwWfAWilGFajF
+debug: websocket writing 2::
+debug: set heartbeat timeout for client ugkCr8vTwWfAWilGFajF
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client ugkCr8vTwWfAWilGFajF
+debug: set heartbeat interval for client ugkCr8vTwWfAWilGFajF
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client ugkCr8vTwWfAWilGFajF
+debug: websocket writing 2::
+debug: set heartbeat timeout for client ugkCr8vTwWfAWilGFajF
+debug: fired heartbeat timeout for client ugkCr8vTwWfAWilGFajF
+info: transport end (heartbeat timeout)
+debug: set close timeout for client ugkCr8vTwWfAWilGFajF
+debug: cleared close timeout for client ugkCr8vTwWfAWilGFajF
+debug: discarding transport
+debug: client authorized
+info: handshake authorized Rh16TcPttx0dvAE-FajG
+debug: setting request GET /socket.io/1/websocket/Rh16TcPttx0dvAE-FajG
+debug: set heartbeat interval for client Rh16TcPttx0dvAE-FajG
+debug: client authorized for 
+debug: websocket writing 1::
+debug: emitting heartbeat for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: set heartbeat interval for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: set heartbeat interval for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: set heartbeat interval for client Rh16TcPttx0dvAE-FajG
+debug: emitting heartbeat for client Rh16TcPttx0dvAE-FajG
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Rh16TcPttx0dvAE-FajG
+debug: set heartbeat interval for client Rh16TcPttx0dvAE-FajG
+info: transport end (socket end)
+debug: set close timeout for client Rh16TcPttx0dvAE-FajG
+debug: cleared close timeout for client Rh16TcPttx0dvAE-FajG
+debug: cleared heartbeat interval for client Rh16TcPttx0dvAE-FajG
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized V8kn49Zg_ssaN1SjFajH
+debug: setting request GET /socket.io/1/websocket/V8kn49Zg_ssaN1SjFajH
+debug: set heartbeat interval for client V8kn49Zg_ssaN1SjFajH
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client V8kn49Zg_ssaN1SjFajH
+debug: websocket writing 2::
+debug: set heartbeat timeout for client V8kn49Zg_ssaN1SjFajH
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client V8kn49Zg_ssaN1SjFajH
+debug: set heartbeat interval for client V8kn49Zg_ssaN1SjFajH
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client V8kn49Zg_ssaN1SjFajH
+debug: websocket writing 2::
+debug: set heartbeat timeout for client V8kn49Zg_ssaN1SjFajH
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client V8kn49Zg_ssaN1SjFajH
+debug: set heartbeat interval for client V8kn49Zg_ssaN1SjFajH
+info: transport end (socket end)
+debug: set close timeout for client V8kn49Zg_ssaN1SjFajH
+debug: cleared close timeout for client V8kn49Zg_ssaN1SjFajH
+debug: cleared heartbeat interval for client V8kn49Zg_ssaN1SjFajH
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized bc6ubQzbp_UMpazWFajI
+debug: setting request GET /socket.io/1/websocket/bc6ubQzbp_UMpazWFajI
+debug: set heartbeat interval for client bc6ubQzbp_UMpazWFajI
+debug: client authorized for 
+debug: websocket writing 1::
+info: transport end (socket end)
+debug: set close timeout for client bc6ubQzbp_UMpazWFajI
+debug: cleared close timeout for client bc6ubQzbp_UMpazWFajI
+debug: cleared heartbeat interval for client bc6ubQzbp_UMpazWFajI
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized YqpxrL8ygWSEHAoyFajJ
+debug: setting request GET /socket.io/1/websocket/YqpxrL8ygWSEHAoyFajJ
+debug: set heartbeat interval for client YqpxrL8ygWSEHAoyFajJ
+debug: client authorized for 
+debug: websocket writing 1::
+info: transport end (socket end)
+debug: set close timeout for client YqpxrL8ygWSEHAoyFajJ
+debug: cleared close timeout for client YqpxrL8ygWSEHAoyFajJ
+debug: cleared heartbeat interval for client YqpxrL8ygWSEHAoyFajJ
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized tqBwF6EqoE5HNzRCFajK
+debug: setting request GET /socket.io/1/websocket/tqBwF6EqoE5HNzRCFajK
+debug: set heartbeat interval for client tqBwF6EqoE5HNzRCFajK
+debug: client authorized for 
+debug: websocket writing 1::
+info: transport end (socket end)
+debug: set close timeout for client tqBwF6EqoE5HNzRCFajK
+debug: cleared close timeout for client tqBwF6EqoE5HNzRCFajK
+debug: cleared heartbeat interval for client tqBwF6EqoE5HNzRCFajK
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized Y-zB_giGsiwQh0FiFajL
+debug: setting request GET /socket.io/1/websocket/Y-zB_giGsiwQh0FiFajL
+debug: set heartbeat interval for client Y-zB_giGsiwQh0FiFajL
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client Y-zB_giGsiwQh0FiFajL
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: set heartbeat interval for client Y-zB_giGsiwQh0FiFajL
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client Y-zB_giGsiwQh0FiFajL
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: set heartbeat interval for client Y-zB_giGsiwQh0FiFajL
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client Y-zB_giGsiwQh0FiFajL
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Y-zB_giGsiwQh0FiFajL
+debug: set heartbeat interval for client Y-zB_giGsiwQh0FiFajL
+info: transport end (socket end)
+debug: set close timeout for client Y-zB_giGsiwQh0FiFajL
+debug: cleared close timeout for client Y-zB_giGsiwQh0FiFajL
+debug: cleared heartbeat interval for client Y-zB_giGsiwQh0FiFajL
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized oJbF3MNUeFnSEt7IFajM
+debug: setting request GET /socket.io/1/websocket/oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"10"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"9"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"8"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"7"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"6"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"5"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"4"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"3"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"2"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"1"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"t1","v":"0"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"100"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"m","v":"Your egg is done!"}]}
+debug: websocket writing 5:::{"name":"dataEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: websocket writing 5:::{"name":"serialEvent","args":[{"t":"d","id":"O1","v":"0"}]}
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: set heartbeat interval for client oJbF3MNUeFnSEt7IFajM
+debug: emitting heartbeat for client oJbF3MNUeFnSEt7IFajM
+debug: websocket writing 2::
+debug: set heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+debug: fired heartbeat timeout for client oJbF3MNUeFnSEt7IFajM
+info: transport end (heartbeat timeout)
+debug: set close timeout for client oJbF3MNUeFnSEt7IFajM
+debug: cleared close timeout for client oJbF3MNUeFnSEt7IFajM
+debug: discarding transport
+info: socket.io started
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized VGFu8Y0XS0nDP63yQZIc
+debug: setting request GET /socket.io/1/websocket/VGFu8Y0XS0nDP63yQZIc
+debug: set heartbeat interval for client VGFu8Y0XS0nDP63yQZIc
+debug: client authorized for 
+debug: websocket writing 1::
+info: transport end (socket end)
+debug: set close timeout for client VGFu8Y0XS0nDP63yQZIc
+debug: cleared close timeout for client VGFu8Y0XS0nDP63yQZIc
+debug: cleared heartbeat interval for client VGFu8Y0XS0nDP63yQZIc
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized nvgv9v7EghONwe-hQZId
+debug: setting request GET /socket.io/1/websocket/nvgv9v7EghONwe-hQZId
+debug: set heartbeat interval for client nvgv9v7EghONwe-hQZId
+debug: client authorized for 
+debug: websocket writing 1::
+
+undefined:1
+{
+ ^
+SyntaxError: Unexpected token 

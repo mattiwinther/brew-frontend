@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>BeerMaker a0.1</title>
+		<!-- <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script> -->
+		<script src="/js/jquery-1.10.2.min.js"></script>
+
+		<!-- <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> -->
+		<script src="/js/jquery-ui-1.10.3.min.js"></script>
+		
+		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/theme/jquery-ui-1.10.3.custom.css">
+
+		<script src="/socket.io/socket.io.js"></script>
+		<script src="js/jquery.knob.js"></script>
+		<script src="/js/pid-widget.js"></script>
+		
+		<script>
+			// open a connection to the serial server:
+			//var socket = io.connect('http://192.168.10.105:8080', {
+			//var socket = io.connect('http://109.247.58.27:8888', {
+			var socket = io.connect('http://' + location.host, {
+				'reconnect': true,
+				'reconnection delay': 500,
+				'max reconnection attempts': 10
+			});
+
+			 // when you get a serialdata event, do this:
+			socket.on('serialEvent', function (data) {
+				//$("#textDisplay").append(JSON.stringify(data));
+				//$("#textDisplay").append("\n");
+				
+				var psconsole = $('#textDisplay');
+				psconsole.scrollTop(psconsole[0].scrollHeight - psconsole.height());
+			});
+			
+			socket.on('debugEvent', function (data) {
+				// look for the textDisplay element in the HTML below:
+				var element = document.getElementById('txtLog');
+				// set the stuff inside the element's HTML tags to
+				// whatever the 'value' property of the received data is:
+				element.innerHTML += data.value;
+			});
+			
+			socket.on('dataEvent', function (data) {
+				// look for the textDisplay element in the HTML below:
+				var element = document.getElementById(data.id);
+				// set the stuff inside the element's HTML tags to
+				// whatever the 'value' property of the received data is:
+				element.innerHTML = data.v;
+			});
+		</script>
+
+		
+		<script>
+			$(function() {
+				$("#tabs").tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+				$("#tabs li").removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+				$("#tabs").removeClass( "ui-corner-all" );
+				$("#tabs ul").removeClass( "ui-corner-all" );
+				
+				$(".htabs").tabs();
+				$(".htabs li").removeClass( "ui-corner-left" ).addClass( "ui-corner-top" );
+				$(".htabs div").removeClass( "ui-corner-bottom" )
+			});
+		</script>
+		
+		<script>
+			$(document).ready(function() {
+				$("#btnSetVariable").click(function() {
+					var strCMD = String.fromCharCode(65) + String.fromCharCode($('#txtVariable').val()) + $('#txtVariableValue').val() + String.fromCharCode(13);
+					socket.emit('sendcmd', strCMD);
+					
+					//$.post('/sendtoavr', {cmd: strCMD});
+				});
+
+				$("#btnReadVariable").click(function() {
+					var strCMD = String.fromCharCode(66) + String.fromCharCode($('#txtVariable').val()) + String.fromCharCode(13);
+					socket.emit('sendcmd', strCMD);
+					
+					//$.post('/sendtoavr', {cmd: strCMD});
+				});
+				
+				$("#btnListTempSensors").click(function() {
+					var strCMD = String.fromCharCode(84) + String.fromCharCode(76) + String.fromCharCode(13);
+					socket.emit('sendcmd', strCMD);
+					
+					//$.post('/sendtoavr', {cmd: strCMD});
+				});
+				
+				$("#btnSearchTempSensors").click(function() {
+					var strCMD = String.fromCharCode(84) + String.fromCharCode(83) + String.fromCharCode(13);
+					socket.emit('sendcmd', strCMD);
+					
+					//$.post('/sendtoavr', {cmd: strCMD});
+				});
+
+			});
+		</script>
+  <style>
+  .ui-tabs-vertical { width: 980px; height:100%; }
+  .ui-tabs-vertical > .ui-tabs-nav { height: 100%; margin: 0; padding: 0; float: left; width: 100px; }
+  .ui-tabs-vertical > .ui-tabs-nav li { clear: left;
+										width: 100%;
+										border-bottom-width: 1px !important;
+										border-right-width: 0 !important;
+										/*margin: 10px -1px .2em 0;*/ }
+  .ui-tabs-vertical > .ui-tabs-nav li a { text-align:center; display:block; padding: 25px 5px 20px 5px; outline: none; }
+  .ui-tabs-vertical > .ui-tabs-nav li.ui-tabs-active { padding: 0; border: 0; }
+  .ui-tabs-vertical > .ui-tabs-panel { padding: 5px; float: right; width: 868px; }
+  
+  .htabs .ui-tabs-nav  { width:100%; margin:0; padding: 0; list-style: none; }
+  .htabs .ui-tabs-nav li { float: left; margin: 0 1px 0 1px; }
+  .htabs .ui-tabs-nav li a { display:block; padding: 5px 10px 5px 10px; outline: none; }
+  .htabs .ui-tabs-panel { background: #fff; float: right; width: 868px; }
+  
+
+#wrapper {
+	position:absolute;
+	top:0;
+	bottom:0;
+	width:100%;
+}
+
+#header, #footer, #content {
+	position:absolute;
+	width:100%;
+}
+
+#header { 
+	top:0;
+	background-color:#222;
+	height:0px;
+	box-shadow: 0px 1px 10px #000;
+	z-index: 100;
+	background: #222;
+}
+
+#content {
+	top:0px;
+	bottom:0px;
+	overflow:hidden;
+	background: #eee;
+}
+
+#footer {
+	bottom:0px;
+	background-color:#afa;
+	height:0px
+}
+  </style>
+	</head>
+	<body>
+
+		<div id="wrapper">
+			<div id="header"></div>
+			<div id="content">
+	
+	
+	
+				<div id="tabs">
+					<ul>
+						<li><a href="#tab1"><img style="width: 48px; height: 48px;" src="/icons/88-beer-mug@2x.png" /><br /><span>Brew</span></a></li>
+						<li><a href="#tab2"><img style="width: 48px; height: 48px;" src="/icons/104-index-cards@2x.png" /><br /><span>Recipes</span></a></li>
+						<li><a href="#tab3"><img style="width: 48px; height: 48px;" src="/icons/91-beaker-2@2x.png" /><br /><span>Ferments</span></a></li>
+						<li><a href="#tab4"><img style="width: 48px; height: 48px;" src="/icons/106-sliders@2x.png" /><br /><span>Settings</span></a></li>
+						<li><a href="#tab5"><img style="width: 48px; height: 48px;" src="/icons/20-gear2@2x.png" /><br /><span>System</span></a></li>
+					</ul>
+					<div id="tab4">
+						<div class="htabs">
+							<ul>
+								<li><a href="#ntab10"><span>Temperature</span></a></li>
+								<li><a href="#ntab11"><span>Volume</span></a></li>
+							</ul>
+						
+							<div id="ntab10">
+								<input type="button" id="btnSearchTempSensors" value="Discover" />
+								<input type="button" id="btnListTempSensors" value="List" />
+								
+								<script src="/js/temp_widget.js"></script>
+								<div id="tsenosrs"></div>
+								<script>
+									$("#tsenosrs").sensorlist();
+								</script>
+							</div>
+							<div id="ntab11">
+								Linear calibration | Offset calibration
+							</div>
+						</div>
+					</div>
+					
+					<div id="tab3">Test 3</div>
+					
+					<div id="tab2">
+						<div class="htabs">
+							<ul>
+								<li><a href="#ntab1"><span>Overview</span></a></li>
+								<li><a href="#ntab2"><span>LiveView</span></a></li>
+								<li><a href="#ntab3"><span>Setup</span></a></li>
+							</ul>
+
+							<div id="ntab1">Tab 1</div>
+							<div id="ntab2">Tab 2</div>
+							<div id="ntab3">Tab 3</div>
+						</div>
+					</div>
+				  
+
+					
+					<div id="tab1">
+						<div id="pid0"></div>
+						<div id="pid1"></div>
+						<div id="pid2"></div>
+						<script>$("#pid0").pid_control({ id:1, name:'HLT' });</script>
+						<script>$("#pid1").pid_control({ id:2, name:'MLT', setpoint: 71 });</script>
+						<script>$("#pid2").pid_control({ id:3, name:'KET' });</script>
+
+						<br />
+						Variable: <input type="text" id="txtVariable" /><br />
+						Value: <input type="text" id="txtVariableValue" /><br />
+						<input type="button" id="btnSetVariable" value="Set" />
+						<input type="button" id="btnReadVariable" value="Read" />
+						
+					</div>
+					
+					<div id="tab5"> <!-- SYSTEM TAB -->
+						<br />
+						<fieldset>
+							<legend>MCU commands</legend>
+							<input type="button" value="Reset MCU" titles="Send 'ESC'" onclick="$.post('/sendtoavr', {cmd: String.fromCharCode(27)});" />
+						</fieldset>
+						<fieldset>
+							<legend>Load MCU firmware</legend>
+								<form method="post" enctype="multipart/form-data" action="/firmware">
+									<input type="file" name="tmb">
+									<input type="submit" value="Flash">	
+								</form>	
+						</fieldset>
+						<fieldset>
+							<legend>Message log</legend>
+							<textarea id="textDisplay" cols="60" rows="10"></textarea>
+						</fieldset>
+					</div>
+
+				</div>
+				
+			</div>
+			<div id="footer"></div>
+		</div>
+		
+	</body>
+</html>

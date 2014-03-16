@@ -1,0 +1,109 @@
+@font-face {
+	font-family: titillium_thin;
+	src: url("fonts/TitilliumText22L001-webfont.woff");
+}
+
+@font-face {
+	font-family: titillium;
+	src: url("fonts/TitilliumText22L002-webfont.woff");
+	font-weight: lighter;
+}
+
+@font-face {
+	font-family: titillium;
+	src: url("fonts/TitilliumText22L003-webfont.woff");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: titillium_medium;
+	src: url("fonts/TitilliumText22L004-webfont.woff");
+}
+
+@font-face {
+	font-family: titillium;
+	src: url("fonts/TitilliumText22L005-webfont.woff");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: titillium;
+	src: url("fonts/TitilliumText22L006-webfont.woff");
+	font-weight: bolder;
+}
+
+div.pid-widget {
+	background-color: white;
+	margin: 10px;
+	padding: 5px;
+	float: left;
+	min-width: 220px;
+	/*border: 1px solid #ddd;*/
+	border-radius: 2px;
+	box-shadow: 0 1px 1px 1px #ddd;
+
+}
+
+div.pid-widget div._dial {
+text-align: center;
+}
+
+div.pid-widget .hr {
+display: block; background-color: #eee; height: 1px; margin: 5px 0 5px 0;
+}
+
+div.pid-widget .vr {
+display: block; background-color: #eee; width: 1px; height: 50px; margin: auto auto auto auto;
+}
+
+div.pid-widget .data_left {
+float: left;
+}
+
+div.pid-widget .data_right {
+float: right; text-align: right;
+}
+
+div.pid-widget .data_left span:first-child,
+div.pid-widget .data_right  span:first-child {
+font-size: .7em;
+}
+
+div.pid-widget .data_left span:last-child,
+div.pid-widget .data_right  span:last-child {
+font-size: 1.5em;
+}
+
+.cear-both {
+clear: both;
+}
+
+#content input[type=button] {
+	border: 1px solid #fff;
+	border-radius: 3px;
+	outline: none;
+	box-shadow: 0 1px 1px 1px #fff;
+}
+/*
+link
+visited
+*/
+#content input[type=button]:hover {
+	box-shadow: 0 1px 1px 1px #ddd;
+	
+}
+#content input[type=button]:active {
+	box-shadow: 0 1px 1px 1px #eee;
+}
+
+input[type=button].icon-equal {
+	position: absolute;
+	width: 30px; height: 30px;
+	background: url(/icons/95-equalizer_02.png) no-repeat center center;
+}
+
+input[type=button].icon-stats {
+	/* position: relative; */
+	width: 30px; height: 30px;
+	background: url(/icons/122-stats_02.png) no-repeat center center;
+}
